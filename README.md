@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yusufzhafir
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning to make a full fledged bot to help students pick a class
+- 👀 I’m interested in working if you have any open position
 - 📫 How to reach me yusuf.zhafir@ui.ac.id
 
 <!---
