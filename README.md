@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yusufzhafir
-- 👀 I’m interested in working if you have any open position
+- 👀 I’m interested in web development and their infrastructures
 - 📫 How to reach me yusuf.zhafir@ui.ac.id
 
 <!---
