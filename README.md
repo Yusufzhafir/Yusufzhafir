@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yusufzhafir
 - 👀 I’m interested in web development and their infrastructures
-- 📫 How to reach me yusuf.zhafir@ui.ac.id
+- 📫 checkout my website! at shadiq.id
 
 <!---
 Yusufzhafir/Yusufzhafir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
